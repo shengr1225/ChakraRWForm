@@ -22,6 +22,6 @@ yarn redwood dev
 
 Your browser should automatically open to http://localhost:8910 where you'll see the Welcome Page, which links out to a ton of great resources.
 
-> ** Chakra UI Form with Redwoodjs validation
+** Chakra UI Form with Redwoodjs validation
 
->  - Showcase of using Chakra UI Form styles and utilize the front-end and server validation provided by RedwoodJS form.
+- Showcase of using Chakra UI Form styles and utilize the front-end and server validation provided by RedwoodJS form.
