@@ -101,10 +101,7 @@ const Details = () => {
                 placeholder="San Francisco"
               ></Input>
               <FormErrorMessage>
-                <FieldError
-                  name="address"
-                  className="rw-field-error"
-                ></FieldError>
+                <FieldError name="city" className="rw-field-error"></FieldError>
               </FormErrorMessage>
             </FormControl>
           </GridItem>
