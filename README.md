@@ -22,6 +22,10 @@ yarn redwood dev
 
 Your browser should automatically open to http://localhost:8910 where you'll see the Welcome Page, which links out to a ton of great resources.
 
-## Chakra UI Form with Redwoodjs validation
+### Chakra UI Form
 
-- Showcase of using Chakra UI Form styles and utilize the front-end and server validation provided by RedwoodJS form.
+- Using Chakra UI to build a form
+- Using the "as" props to render the form elements as RedwoodJS form elements
+- Using useForm hook to get error status
+- Control the error display by accessing the error status from the hook
+- Use validation just like on a RedwoodJS Form element but actually on a Chakra UI
