@@ -29,3 +29,5 @@ Your browser should automatically open to http://localhost:8910 where you'll see
 - Using useForm hook to get error status
 - Control the error display by accessing the error status from the hook
 - Use validation just like on a RedwoodJS Form element but actually on a Chakra UI
+
+![Showcase](https://github.com/shengr1225/ChakraRWForm/blob/main/web/public/screenshot1.png?raw=true)
